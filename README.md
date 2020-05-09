@@ -1,6 +1,6 @@
-# K-t-phaneOtomasyonuNetBeansjava
-KütüphaneOtomasyonuNetBeansjava
-ister sql kurarak tabloları oluşturun veya jdbc ile txt ile kütüphaneyi oluşturarak kodu çalıştırabilirsiniz 
-iletişim için
-İNSTAGRAM 
-@hasangonen91
+# K-t-phane AutomationNetBeansjava
+kütüphaneotomasyonunetbeansjav to
+You can edit tables by installing sql or run library library code with txt with jdbc
+to communicate
+Instagram
+@ hasangonen91
